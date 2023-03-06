@@ -1,25 +1,30 @@
 
 
-<h2>Hi there 👋, I'm José Camilo</h2>
+# Hi there 👋, I'm José Camilo
 
-I am a junior FullStack Web Developer (no experience), I have 3 years as a self-taught, in this time I have acquired skills and knowledge necessary to be able to work together on a project. Throughout this time I have created several personal projects using (HTML, CSS, Javascript, Python, Django, React).
-I am passionate about learning and exploring new technologies, I want to gain more knowledge and also work experience, with a positive attitude and eager to keep trying to reach my goal since the first day I touched code, "Improve my life and the lives of my family...".
+Soy un futuro **Desarrollador Web FullStack**, tengo cierto tiempo estudiando como autodidacta, en este lapso he adquirido algunas habilidades y conocimientos como para poder integrar algún grupo de trabajo. Conozco algo de:
 
+- HTML
+- CSS
+- Javascript
+- Python
+- Django
+- React
+
+Me apasiona aprender y explorar nuevas tecnologías, quiero ganar más conocimiento y también experiencia laboral, con una actitud positiva y muchas ganas de seguir tratando de alcanzar *mi meta desde el primer día que toqué mis primeras líneas de código*...
 
 [![Linkedin: José Camilo](https://img.shields.io/badge/-JoséCamilo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josé-camilo-22920319a/)](https://www.linkedin.com/in/josé-camilo-22920319a/) [![Gmail: José Camilo](https://img.shields.io/badge/-JoséCamilo-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:josecamilorodriguezvera@gmail.com) [![Twitter: José Camilo](https://img.shields.io/badge/-JoséCamilo-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Joscamilo84/)](https://twitter.com/Joscamilo84/)
 
-<h4>Technologies I use and keep learning 💻</h4>
+## Tecnologías que sigo aprendiendo 💻
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
-<h2 align="center">Github stats :bar_chart:</h2>
+## Estadísticas: :bar_chart:
 
-<h4 align="center">Top technologies 💻</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCamilo84&langs_count=10&theme=tokyonight&layout=compact" alt="JoseCamilo84 :: Top Langs" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCamilo84&langs_count=10&theme=tokyonight&layout=compact" alt="JoseCamilo84 :: Top Langs" />
 
 
 
