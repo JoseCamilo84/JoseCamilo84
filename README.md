@@ -1,6 +1,6 @@
 
 
-# Hi there 👋, I'm José Camilo
+# Hola 👋, me llamo José Camilo
 
 Soy un futuro **Desarrollador Web FullStack**, tengo cierto tiempo estudiando como autodidacta, en este lapso he adquirido algunas habilidades y conocimientos como para poder integrar algún grupo de trabajo. Conozco algo de:
 
