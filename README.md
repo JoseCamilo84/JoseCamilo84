@@ -13,7 +13,7 @@ Soy un futuro **Desarrollador Web FullStack**, tengo cierto tiempo estudiando co
 
 Me apasiona aprender y explorar nuevas tecnologías, quiero ganar más conocimiento y también experiencia laboral, con una actitud positiva y muchas ganas de seguir tratando de alcanzar *mi meta desde el primer día que toqué mis primeras líneas de código*...
 
-[![Linkedin: José Camilo](https://img.shields.io/badge/-JoséCamilo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josé-camilo-22920319a/)](https://www.linkedin.com/in/josé-camilo-22920319a/) [![Gmail: José Camilo](https://img.shields.io/badge/-JoséCamilo-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:josecamilorodriguezvera@gmail.com) [![Twitter: José Camilo](https://img.shields.io/badge/-JoséCamilo-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Joscamilo84/)](https://twitter.com/Joscamilo84/)
+[![Linkedin: José Camilo](https://img.shields.io/badge/-JoséCamilo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-camilo-rodr%C3%ADguez-vera-22920319a/)](https://www.linkedin.com/in/josé-camilo-22920319a/) [![Gmail: José Camilo](https://img.shields.io/badge/-JoséCamilo-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:josecamilorodriguezvera@gmail.com) [![Twitter: José Camilo](https://img.shields.io/badge/-JoséCamilo-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Joscamilo84/)](https://twitter.com/Joscamilo84/)
 
 ## Tecnologías que sigo aprendiendo 💻
 
